@@ -3,6 +3,9 @@ Hello! Thanks for reading my solutions I came up with to solve the programming p
 My Solutions
 ============
 
-I have solved the first two problems. I hope my solutions are helpful and well constructed for someone who wants some help with the problems.
+I hope my solutions are helpful and well constructed for someone who wants some help with the problems.
 If you find any fault in my code please point it to me. Thanks!
-I want to solve at least 30-50 problems so I will update my solutions from time to time. Check back again for more solved problems!
+
+Note: Some of these solutions are Wrong Answers if you check them at the SPOJ site. This is intentional from my side.
+The reason behind this is that some of these problems have some inaccuracies at the problem description or at the evaluation process.
+(ex. at the problem Alphacode input 2002 should evaluate to 0 decodings instead to 2 decodings.)
